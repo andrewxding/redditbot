@@ -1,1 +1,2 @@
-"# redditbot" 
+# redditbot
+this is deprecated
